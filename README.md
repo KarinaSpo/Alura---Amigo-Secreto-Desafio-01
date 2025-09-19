@@ -1,20 +1,41 @@
-# Índice 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
-<h1 align="center"> Seu título aqui </h1>
-![descrição da imagem](url da imagem gerado pelo serviço de hospedagem ou GitHub)
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-<p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+# 🎁 Alura - Amigo Secreto Desafio 01
+
+
+---
+
+## 📌 Descrição do Projeto
+
+Este projeto foi desenvolvido como parte do **Desafio 01** do curso **"Amigo Secreto"** da Alura.  
+O objetivo é criar uma aplicação simples da brincadeira "Amigo Secretos", utilizando **HTML**, **CSS** e **JavaScript**.
+
+---
+
+## 🚀 Funcionalidades
+
+- 📝 Cadastro de participantes
+- 🎲 Sorteio automático dos amigos
+- 💌 Exibição do resultado
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **HTML**
+- **CSS**
+- **JavaScript**
+
+---
+
+## 🔗 Acesso ao Projeto
+
+Você pode acessar o projeto no GitHub:  
+[Alura - Amigo Secreto Desafio 01](https://github.com/KarinaSpo/Alura---Amigo-Secreto-Desafio-01)
+
+---
+
+## ⚙️ Como Contribuir
+
+1. Faça um **fork** deste repositório.  
+2. Crie uma branch para a sua funcionalidade:  
+   ```bash
+   git checkout -b feature/nome-da-funcionalidade
